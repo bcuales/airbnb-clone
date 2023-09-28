@@ -3,8 +3,3 @@ REFERENCES:
 
 YouTube Video: https://www.youtube.com/watch?v=c_-b_isI4vg&t=326s&ab_channel=CodeWithAntonio
 Code With Antonio GitHub: https://github.com/AntonioErdeljac/next13-airbnb-clone/tree/master
-
-LOGS:
-
-Wed, Sept 20 - 00:00 - 34:29
-    - Added: Navbar UI
